@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2025-05-01 00:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+Joined <a href="https://newtonschool.co">Newton School</a> as SDE + ML Instructor — building AI-powered educational platforms and agentic evaluation pipelines serving 3,000+ students.

@@ -1,189 +1,197 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Dev Nirwal
+  label: AI/ML Researcher & Engineer
+  email: devnirwal16@gmail.com
+  location: Pune, India
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: >
+    AI/ML researcher and software engineer specializing in hypergraph-based learning,
+    LLM pipelines, and scalable AI systems. Published 4 papers at ICPR 2024,
+    CODS-COMAD 2024, and ICMLDE 2025. MSc CS (Rank 2/22) on a fully-funded
+    merit scholarship.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: devn913
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: devn007
+    - network: Google Scholar
+      username: EQFd6ucAAAAJ
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: South Asian University (International SAARC University)
+        location: New Delhi, India
+        url: https://sau.ac.in
+        area: Computer Science
+        studyType: Master of Science
+        start_date: 2022-07
+        end_date: 2024-06
+        score: "8.02/9"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Rank 2 out of 22"
+          - "Fully funded merit-based scholarship"
+          - "Research: Hypergraph Learning, Semi-Supervised SVMs, Multi-label Classification"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: Deshbandhu College, University of Delhi
+        location: New Delhi, India
+        url: https://deshbandhucollege.ac.in
+        area: Computer Science
+        studyType: Bachelor of Science
+        start_date: 2019-07
+        end_date: 2022-05
+        score: "9/10"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Annual Day 2021 Award recipient"
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Newton School
+        position: SDE + Instructor (DSA & Machine Learning)
+        location: Pune, India
+        start_date: 2025-05
+        end_date: present
+        summary: Building AI-powered educational platform and delivering ML/LLM instruction.
         highlights:
-          - Relativity
-          - Description 2.
+          - Built and enhanced core learning platform serving 3,000+ students across 3 campuses
+          - Developed agentic AI-based evaluation pipelines for interviews and OCR projects
+          - Conducted workshops on Linux From Scratch, Machine Learning, and LLMs
+          - Mentored 60+ students for GSoC, SIH, and open-source contributions
+          - Co-founded on-campus Cybersecurity and AI clubs
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Cipher School
+        position: DSA Instructor
+        location: New Delhi, India
+        start_date: 2024-07
+        end_date: 2025-05
         highlights:
-          - Description 1.
-          - Description 2.
-
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
-
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
-        highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
-
-    Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
-
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+          - Mentored specialized placement batch of 60+ final-year engineering students from LPU
+          - Delivered intensive instruction in DSA, MySQL, and System Design
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: Leveraging Hypergraph-Guided Feature Relevance in Multi-Label Learning with Missing Labels
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - Rastogi, Reshma
+          - Nirwal, Dev
+        publisher: ICMLDE 2025
+        releaseDate: 2025-01-01
+        summary: Hypergraph-guided framework for feature relevance in multi-label learning with missing labels.
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: Improved Hypergraph Laplacian Based Semi-Supervised Support Vector Machine
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - Rastogi, Reshma
+          - Nirwal, Dev
+        publisher: ICPR 2024
+        releaseDate: 2024-12-01
+        url: https://link.springer.com/book/10.1007/978-3-031-78383-8
+        summary: Novel semi-supervised SVM using hypergraph Laplacian regularization.
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: Hypergraph Regularized Semi-supervised Least Squares Twin Support Vector Machine
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - Rastogi, Reshma
+          - Nirwal, Dev
+        publisher: ICPR 2024
+        releaseDate: 2024-12-01
+        url: https://link.springer.com/chapter/10.1007/978-3-031-78383-8_15
+        summary: Hypergraph-regularized semi-supervised least squares twin SVM for multilabel classification.
 
-    Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Languages:
-      - name: German
-        summary: "Native speaker"
-
-      - name: English
-        summary: "Fluent"
-
-    Interests:
-      - name: Physics
-        icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+      - title: HyperGraph Based Imbalance Multi-label Classification with Label Specific Features
+        authors:
+          - Rastogi, Reshma
+          - Nirwal, Dev
+        publisher: CODS-COMAD 2024
+        releaseDate: 2024-01-01
+        summary: Hypergraph approach for imbalanced multi-label classification with label-specific features.
 
     Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
+      - name: Hypergraph-driven Semi-Supervised Learning
+        summary: >
+          Novel hypergraph-based ML algorithms for semi-supervised and multi-label classification.
+          Outperforms traditional graph-based methods on UCI ML Repository, MNIST Fashion, and NLP datasets.
         highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
+          - Developed 2 novel hypergraph-based classification algorithms
+          - Published at ICPR 2024 and CODS-COMAD 2024
+          - High-performance retrieval pipelines using FAISS vector storage
+        start_date: 2022-07
+        end_date: 2024-06
 
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: SimpleRAG
+        summary: >
+          RAG-based web application using Django and LangChain for interactive PDF querying
+          via Google Gemini AI with FAISS vector storage and recursive text chunking.
+        highlights:
+          - LangChain + Gemini AI + FAISS vector retrieval
+          - Recursive chunking for contextually accurate responses
+        start_date: 2024-01
 
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+      - name: Paper2Code
+        summary: Automating code generation from scientific ML papers using LLMs.
+        start_date: 2025-01
+
+      - name: MBR Lab — Bioinformatics Toolbox
+        summary: >
+          Web-based bioinformatics toolbox for protein sequence analysis supporting
+          FASTA and BLAST formats, built with BioPython, Matplotlib, and Django.
+        highlights:
+          - Amino acid classifier and hydropathy plot generation
+          - FASTA and BLAST format support
+        start_date: 2023-06
+
+      - name: SQL Chess
+        summary: Play chess and learn SQL simultaneously — an interactive web game combining board mechanics with SQL query challenges.
+        url: https://devn913.github.io/SQL_Chess
+
+      - name: Reddit Scraper (LLM Training Data)
+        summary: Python scraper with rotating proxy support for efficiently collecting Reddit data for LLM training and fine-tuning.
+
+    Skills:
+      - name: ML & Research
+        level: Expert
+        icon: fa-solid fa-brain
+        keywords: "Scikit-learn, PyTorch, NLTK, Hypergraph Learning, SVMs, Multi-label Classification, Semi-Supervised Learning, FAISS"
+
+      - name: AI & LLM Engineering
+        level: Advanced
+        icon: fa-solid fa-robot
+        keywords: "LangChain, RAG, Gemini AI, FAISS, Vector Databases, Agentic AI Pipelines, Ollama, OpenWebUI"
+
+      - name: Programming Languages
+        level: Advanced
+        icon: fa-solid fa-code
+        keywords: "Python, C++, Java, SQL, MATLAB, PHP, Go"
+
+      - name: Tools & Infrastructure
+        level: Advanced
+        icon: fa-solid fa-wrench
+        keywords: "Git, Docker, Kubernetes, LaTeX, PostgreSQL, MySQL, SQLite, Django, Flask"
+
+    Languages:
+      - name: English
+        summary: "Professional working proficiency"
+      - name: Hindi
+        summary: "Native speaker"
+
+    Awards:
+      - title: Merit-Based Master's Scholarship (Fully Funded)
+        date: 2022-07-01
+        awarder: South Asian University
+        summary: Awarded a fully funded merit-based scholarship for the MSc Computer Science programme.
+
+      - title: Annual Day Award
+        date: 2021-09-01
+        awarder: Deshbandhu College, University of Delhi
+        summary: Recognized at the college's Annual Day 2021 for academic excellence.
+
+    Volunteer:
+      - company: South Asian University
+        position: Student Admission Volunteer
+        location: New Delhi, India
+        start_date: 2024-03-01
+        end_date: 2024-05-01
+        summary: Assisted 200+ prospective students with university admissions, course details, and onboarding.
+
+      - company: South Asian University
+        position: Sport Committee Head (Elected)
+        location: New Delhi, India
+        start_date: 2022-09-01
+        end_date: 2023-07-01
+        summary: Organized sports fests and inter-university tournaments impacting over 1,000 students.

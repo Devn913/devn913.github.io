@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-01-15 00:00:00+0530
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Paper accepted at **ICMLDE 2025**: *"Leveraging Hypergraph-Guided Feature Relevance in Multi-Label Learning with Missing Labels"* — extending hypergraph learning research to incomplete label scenarios.
