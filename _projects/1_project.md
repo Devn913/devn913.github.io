@@ -2,7 +2,7 @@
 layout: page
 title: Hypergraph Semi-Supervised Learning
 description: Novel hypergraph-based ML algorithms for semi-supervised & multi-label classification — published at ICPR 2024 & CODS-COMAD 2024
-img: assets/img/projects/hypergraph.jpg
+img: assets/img/12.jpg
 importance: 1
 category: research
 related_publications: true

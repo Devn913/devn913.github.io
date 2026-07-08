@@ -1,14 +1,13 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - devn913
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - devn913/LeetCode
+  - devn913/Paper2Code
+  - devn913/rag-docqa-endee
+  - devn913/SQL_Chess
+  - devn913/music-reactive-matrix
+  - devn913/aicli
+  - devn913/jupyter-gpu-image
