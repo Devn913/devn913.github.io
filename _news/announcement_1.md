@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper accepted at **ICMLDE 2025**: *"Leveraging Hypergraph-Guided Feature Relevance in Multi-Label Learning with Missing Labels"* — extending hypergraph learning research to incomplete label scenarios.
+Paper accepted at **ICMLDE 2025**: _"Leveraging Hypergraph-Guided Feature Relevance in Multi-Label Learning with Missing Labels"_ — extending hypergraph learning research to incomplete label scenarios.

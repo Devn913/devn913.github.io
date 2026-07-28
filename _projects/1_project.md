@@ -19,6 +19,7 @@ Developed two novel hypergraph-based machine learning algorithms that exploit **
 ## Results
 
 Delivered superior performance over state-of-the-art baselines on:
+
 - UCI ML Repository benchmark datasets
 - MNIST Fashion
 - NLP text classification datasets
