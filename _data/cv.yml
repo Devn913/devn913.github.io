@@ -45,6 +45,17 @@ cv:
           - "Annual Day 2021 Award recipient"
 
     Experience:
+      - company: ADYPU (Ajeenkya DY Patil University)
+        position: Faculty Member
+        location: Pune, India
+        start_date: 2025-07
+        end_date: 2026-05
+        summary: Delivered two 6-month engineering courses and conducted an academic audit for the School of Design.
+        highlights:
+          - "Advanced Data Structures (Jul-Dec 2025): taught 2nd year engineering students time/space complexity, binary trees, binary search trees, dynamic programming, greedy algorithms, and graphs"
+          - "Introduction to Generative AI (Jan-May 2026): taught 2nd year engineering students from linear/logistic regression through neural networks, CNNs, RNNs, NLP fundamentals, transformers, and agentic AI (LangGraph, LangChain, n8n)"
+          - Conducted an academic/quality audit for the School of Design as part of academic responsibilities
+
       - company: Newton School
         position: SDE + Instructor (DSA & Machine Learning)
         location: Pune, India
@@ -72,6 +83,7 @@ cv:
         authors:
           - Rastogi, Reshma
           - Nirwal, Dev
+          - Kumar, S.
         publisher: ICMLDE 2025
         releaseDate: 2025-01-01
         summary: Hypergraph-guided framework for feature relevance in multi-label learning with missing labels.
